@@ -1,9 +1,6 @@
 ---
 enable: true
 item:
-- title: Peraturan SNI Terbaru
-  description: ''
-  icon: tf-ion-ios-bookmarks-outline
 - icon: tf-ion-ios-rocket-outline
   title: Perhitungan Cepat
   description: "\n"
@@ -13,3 +10,6 @@ item:
 - icon: tf-ion-ios-people-outline
   title: Tim Profesional
   description: "\n"
+- title: Peraturan SNI Terbaru
+  description: ''
+  icon: tf-ion-ios-bookmarks-outline
