@@ -1,0 +1,42 @@
+---
+label: Price
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: topTitle
+  label: topTitle
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: field_group_list
+  name: item
+  label: item
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: description
+    label: description
+  - type: field_group_list
+    name: featurelist
+    label: featurelist
+    fields:
+    - type: text
+      name: item
+      label: item
+  - type: text
+    name: btnText
+    label: btnText
+  - type: text
+    name: btnURL
+    label: btnURL
