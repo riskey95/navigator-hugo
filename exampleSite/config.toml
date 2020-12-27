@@ -116,8 +116,6 @@ heading = "FRANCAIS We love to make brands grow"
 videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [[Params.listeLangues]]
-code = "fr"
-[[Params.listeLangues]]
 author = "Themefisher"
 code = "en"
 description = "This is meta description"
