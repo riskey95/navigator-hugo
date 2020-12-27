@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: A LIST OF SERVICES
+title: Our Service.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis
+  quasi itaque, obcaecati atque sit!
+item:
+- icon: tf-ion-ios-copy-outline
+  title: Perencanaan Struktur
+  list:
+  - name: Jasa Perencanaan Struktur Beton
+  - name: Jasa Perencanaan Struktur Baja
+  - name: Gambar Detail Struktur
+- icon: tf-ion-ios-alarm-outline
+  title: Perencanaan Arsitektur
+  list:
+  - name: Jasa Desain Arsitektur
+  - name: Gambar 3D
+  - name: Gambar Detailing Engineered Design (DED)
+  - name: Perhitungan Rencana Anggaran dan Biata (RAB)
+menu:
+  nav:
+    name: service
+    weight: 2

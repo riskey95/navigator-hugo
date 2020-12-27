@@ -1,0 +1,75 @@
+---
+enable: true
+topTitle: EASY PRICING
+title: Pricing.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis
+  quasi itaque, obcaecati atque sit!
+item:
+- name: Basic Structure
+  price: "Rp. 7500"
+  description: Cocok untuk kelengkapan pengajuan IMB (Denah Struktur dari klien)
+  featurelist:
+  - item: Pengerjaan 3 hari kerja
+  - item: Laporan Perhitungan Struktur
+  - item: Menggunakan Peraturan SNI Terbaru
+  btnText: Order
+  btnURL: https://themefisher.com/
+- name: Standard Structure
+  price: "Rp. 10000"
+  description: Jika anda kesulitan merencanakan struktur bangunan kami siap membantu
+  featurelist:
+  - item: Pengerjaan 3 hari kerja
+  - item: Laporan Perhitungan Struktur
+  - item: Gambar Detail Struktur
+  - item: Menggunakan Peraturan SNI Terbaru
+  btnText: ORDER
+  btnURL: https://themefisher.com/
+- name: Profesional Structure
+  price: "Rp. 15000"
+  description: Perencanaan struktur dilengkapi dengan perkiraan anggaran dan biaya
+  featurelist:
+  - item: Pengerjaan 3 hari kerja
+  - item: Laporan Perhitungan Struktur
+  - item: Gambar Detail Struktur
+  - item: Menggunakan Peraturan SNI Terbaru
+  - item: Rencana Anggaran Biaya (RAB)
+  btnText: ORDER
+  btnURL: https://themefisher.com/
+  
+- name: Basic Architecture
+  price: "Rp. 25000"
+  description: Cocok untuk bangunan 1 lantai
+  featurelist:
+  - item: Gambar Denah
+  - item: Gambar Potongan
+  - item: Gambar Tampak
+  - item: Gambar 3D
+  btnText: ORDER
+  btnURL: https://themefisher.com/
+  
+- name: Standard Architecture
+  price: "Rp. 30000"
+  description: Perencanaan Arsitektur dilengkapi dengan perkiraan biayas
+  featurelist:
+  - item: Gambar Denah
+  - item: Gambar Potongan
+  - item: Gambar Tampak
+  - item: Gambar 3D
+  - item: Rencana Anggaran Biaya (RAB)
+  btnText: ORDER
+  btnURL: https://themefisher.com/
+  
+- name: Full Design
+  price: "Rp. 35000"
+  description: Perencanaan bangunan secara menyeluruh
+  featurelist:
+  - item: Gambar Denah
+  - item: Gambar Potongan
+  - item: Gambar Tampak
+  - item: Gambar 3D
+  - item: Gambar Detail Struktur
+  - item: Rencana Anggaran Biaya (RAB)
+  - item: Laporan Perhitungan Struktur
+  - item: Menggunakan Peraturan SNI Terbaru
+  btnText: ORDER
+  btnURL: https://themefisher.com/
