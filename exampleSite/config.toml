@@ -1,4 +1,4 @@
-DefaultContentLanguage = "en"
+DefaultContentLanguage = ""
 baseURL = "https://rumahstruktur.rhiskiapril.com/"
 defaultContentLanguageInSubdir = false
 enableGitInfo = false
