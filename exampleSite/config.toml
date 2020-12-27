@@ -22,8 +22,44 @@ logo = "images/logo.png"
 menufixed = false
 title = "RUMAH STRUKTUR | JASA PERENCANAAN STRUKTUR"
 weight = 2
+[Languages.id.params.aboutSm]
+description = "Jangan pertaruhkan project yang Anda handle tanpa menggunakan jasa perencana struktur bangunan. Mungkin saat ini Anda berpikir, menggunakan konsultan hitung struktur bangunan itu terlalu mahal dan akan buang-buang uang saja, tapi coba sejenak Anda bayangkan jika suatu saat bangunan Anda yang sudah menelan dana ratusan juta mengalami kerusakan akibat salah perencanaan. Berapa biaya yang harus Anda keluarkan untuk melakukan renovasi, jika terjadi gempa bumi, misalnya? Pastinya akan lebih banyak !"
+enable = true
+title = "Konsultan Perencana Struktur Profesional Dan Bersertifikat"
+[Languages.id.params.blog]
+enable = false
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+title = "Blog."
+topTitle = "OUR UNTOLD STORY"
+[Languages.id.params.contact]
+address = "Lowokwaru, Malang, Jawa Timur"
+enable = true
+facebook = "https://www.facebook.com/rumah.engineer"
+instagram = "https://www.instagram.com/rumah.struktur"
+phone = "+62 878 2877 3087"
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+title = "Contact Us."
+topTitle = "DROP US A NOTE"
+[Languages.id.params.cta]
+bg = "images/call-to-action/call-to-action-bg-2.jpg"
+btnText = "Contact Us"
+enable = true
+subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+title = "Let's Create Something Together"
+[Languages.id.params.hero]
+btnText = "Know More"
+btnURL = "https://themefisher.com/"
+button = false
+description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+enable = false
+heading = "We love to make brands grow"
+videoThumb = "images/slider/video-player-thumb.jpg"
+videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Params]
 listeLangues = []
+[params.cookies]
+enable = true
+expire_days = 2
 [menu]
 quicklink = []
 service = []
@@ -50,39 +86,3 @@ weight = 1
 [params]
 dateFormat = "January 2, 2019"
 logo = "images/logo.png"
-[params.id.aboutSm]
-description = "Jangan pertaruhkan project yang Anda handle tanpa menggunakan jasa perencana struktur bangunan. Mungkin saat ini Anda berpikir, menggunakan konsultan hitung struktur bangunan itu terlalu mahal dan akan buang-buang uang saja, tapi coba sejenak Anda bayangkan jika suatu saat bangunan Anda yang sudah menelan dana ratusan juta mengalami kerusakan akibat salah perencanaan. Berapa biaya yang harus Anda keluarkan untuk melakukan renovasi, jika terjadi gempa bumi, misalnya? Pastinya akan lebih banyak !"
-enable = true
-title = "Konsultan Perencana Struktur Profesional Dan Bersertifikat"
-[params.id.blog]
-enable = false
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-title = "Blog."
-topTitle = "OUR UNTOLD STORY"
-[params.id.contact]
-address = "Lowokwaru, Malang, Jawa Timur"
-enable = true
-facebook = "https://www.facebook.com/rumah.engineer"
-instagram = "https://www.instagram.com/rumah.struktur"
-phone = "+62 878 2877 3087"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-title = "Contact Us."
-topTitle = "DROP US A NOTE"
-[params.cookies]
-enable = true
-expire_days = 2
-[params.id.cta]
-bg = "images/call-to-action/call-to-action-bg-2.jpg"
-btnText = "Contact Us"
-enable = true
-subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
-title = "Let's Create Something Together"
-[params.id.hero]
-btnText = "Know More"
-btnURL = "https://themefisher.com/"
-button = false
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-enable = false
-heading = "We love to make brands grow"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
