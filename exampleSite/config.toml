@@ -27,7 +27,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae de
 enable = true
 title = "We have explored the digital landscape with passion for a long time"
 [Languages.en.params.blog]
-enable = true
+enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 title = "Blog."
 topTitle = "OUR UNTOLD STORY"
