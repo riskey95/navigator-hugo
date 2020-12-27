@@ -37,3 +37,5 @@ fields:
   - type: text
     name: category
     label: category
+pages:
+- exampleSite/data/id/portfolio.yml
