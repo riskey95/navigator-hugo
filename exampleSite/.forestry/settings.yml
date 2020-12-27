@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Config
 - type: document
   path: exampleSite/data/id/pricing.yml
   label: Pricing
+- type: heading
+  label: Config
 - type: document
   path: exampleSite/data/id/service.yml
   label: Services
