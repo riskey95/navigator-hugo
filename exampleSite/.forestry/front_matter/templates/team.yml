@@ -1,0 +1,44 @@
+---
+label: Team
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: topTitle
+  label: topTitle
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: subtitle
+  label: subtitle
+- type: field_group_list
+  name: member
+  label: member
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: designation
+    label: designation
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: facebookURL
+    label: facebookURL
+  - type: text
+    name: twitterURL
+    label: twitterURL
+  - type: text
+    name: gplusURL
+    label: gplusURL
+  - type: text
+    name: dribbbleURL
+    label: dribbbleURL
