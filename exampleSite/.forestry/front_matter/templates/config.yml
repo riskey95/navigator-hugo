@@ -237,3 +237,5 @@ fields:
     - type: number
       name: weight
       label: weight
+pages:
+- exampleSite/config.toml

@@ -57,9 +57,6 @@ videoThumb = "images/slider/video-player-thumb.jpg"
 videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
 [Params]
 listeLangues = []
-[params.cookies]
-enable = true
-expire_days = 2
 [menu]
 quicklink = []
 service = []
@@ -86,3 +83,6 @@ weight = 1
 [params]
 dateFormat = "January 2, 2019"
 logo = "images/logo.png"
+[params.cookies]
+enable = true
+expire_days = 2
