@@ -10,10 +10,10 @@ sections:
   create: documents
   match: "*"
 - type: directory
-  path: exampleSite/data/en
+  path: exampleSite/data
   label: Data
   create: all
-  match: "*"
+  match: "**/*"
 - type: directory
   path: exampleSite/content
   label: Pages
