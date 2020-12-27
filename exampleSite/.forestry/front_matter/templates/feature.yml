@@ -10,11 +10,11 @@ fields:
   label: item
   fields:
   - type: text
-    name: icon
-    label: icon
-  - type: text
     name: title
     label: title
   - type: textarea
     name: description
     label: description
+  - type: text
+    name: icon
+    label: icon
