@@ -1,6 +1,9 @@
 ---
 enable: true
 item:
+- title: Menggunakan Software Handal
+  description: ''
+  icon: tf-ion-android-laptop
 - icon: tf-ion-ios-speedometer-outline
   title: Perhitungan Cepat
   description: "\n"
