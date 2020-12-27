@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
-baseURL = "https://example.org/"
-defaultContentLanguageInSubdir = true
+baseURL = "https://rumahstruktur.rhiskiapril.com/"
+defaultContentLanguageInSubdir = false
 enableGitInfo = false
 enableRobotsTXT = true
 googleAnalytics = ""
@@ -8,7 +8,7 @@ languageCode = "en-us"
 pygmentsCodeFences = true
 summaryLength = 10
 theme = "navigator-hugo"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "RUMAH STRUKTUR | JASA PERENCANAAN STRUKTUR"
 [Languages.en]
 dateFormat = "January 2, 2006"
 footerAboutTitle = "About"
