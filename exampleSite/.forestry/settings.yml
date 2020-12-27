@@ -5,13 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/data/id/price.yml
+  path: exampleSite/data/id/pricing.yml
   label: Pricing
-  match: "**/*"
 - type: document
-  path: exampleSite/data/id/services.yml
+  path: exampleSite/data/id/service.yml
   label: Services
-  match: "**/*"
 - type: document
   path: exampleSite/data/id/portfolio.yml
   label: Portfolio
