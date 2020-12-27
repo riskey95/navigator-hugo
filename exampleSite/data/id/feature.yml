@@ -1,18 +1,18 @@
 ---
 enable: true
 item:
-- title: Menggunakan Software Handal
-  description: ''
-  icon: tf-ion-android-laptop
 - icon: tf-ion-ios-speedometer-outline
   title: Perhitungan Cepat
   description: "\n"
 - icon: tf-target3
   title: Perhitungan Akurat
   description: "\n"
-- icon: tf-ion-ios-people-outline
-  title: Tim Profesional
-  description: "\n"
 - title: Peraturan SNI Terbaru
   description: ''
   icon: tf-ion-ios-bookmarks-outline
+- icon: tf-ion-ios-people-outline
+  title: Tim Profesional
+  description: "\n"
+- title: Menggunakan Software Handal
+  description: ''
+  icon: tf-laptop
