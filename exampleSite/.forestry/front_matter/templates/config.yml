@@ -285,3 +285,5 @@ fields:
     - type: number
       name: expire_days
       label: expire_days
+pages:
+- exampleSite/config.toml
