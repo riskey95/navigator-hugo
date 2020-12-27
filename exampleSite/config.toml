@@ -4,64 +4,11 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = false
 enableRobotsTXT = true
 googleAnalytics = ""
-languageCode = ""
+languageCode = "id-id"
 pygmentsCodeFences = true
 summaryLength = 10
 theme = "navigator-hugo"
-title = ""
-[Languages.en]
-dateFormat = ""
-footerAboutTitle = ""
-footerDescription = ""
-footerQuicklinkTitle = ""
-footerServiceTitle = ""
-footerSubscribeTitle = ""
-home = ""
-languageCode = ""
-logo = ""
-menufixed = false
-title = ""
-weight = nil
-[Languages.en.params.aboutSm]
-description = ""
-enable = false
-title = ""
-[Languages.en.params.blog]
-enable = false
-subtitle = ""
-title = ""
-topTitle = ""
-[Languages.en.params.contact]
-address = ""
-dribbble = ""
-enable = false
-facebook = ""
-fax = ""
-instagram = ""
-linkedin = ""
-mapLatitude = ""
-mapLongitude = ""
-mapMarker = ""
-phone = ""
-subtitle = ""
-title = ""
-topTitle = ""
-twitter = ""
-[Languages.en.params.cta]
-bg = ""
-btnText = ""
-enable = false
-subtitle = ""
-title = ""
-[Languages.en.params.hero]
-btnText = ""
-btnURL = ""
-button = false
-description = ""
-enable = false
-heading = ""
-videoThumb = ""
-videoURL = ""
+title = "RUMAH STRUKTUR | JASA PERENCANAAN STRUKTUR"
 [Languages.id]
 dateFormat = "January 2, 2006"
 footerAboutTitle = "Tentang"
