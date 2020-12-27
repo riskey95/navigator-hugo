@@ -21,5 +21,3 @@ fields:
   - type: text
     name: clientDesignation
     label: clientDesignation
-pages:
-- exampleSite/data/en/testimonial.yml

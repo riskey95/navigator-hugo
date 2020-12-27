@@ -87,15 +87,15 @@ fields:
         name: aboutSm
         label: aboutSm
         fields:
-        - type: textarea
-          name: description
-          label: description
         - type: boolean
           name: enable
           label: enable
         - type: text
           name: title
           label: title
+        - type: textarea
+          name: description
+          label: description
       - type: field_group
         name: blog
         label: blog
@@ -103,12 +103,12 @@ fields:
         - type: boolean
           name: enable
           label: enable
-        - type: textarea
-          name: subtitle
-          label: subtitle
         - type: text
           name: title
           label: title
+        - type: textarea
+          name: subtitle
+          label: subtitle
         - type: text
           name: topTitle
           label: topTitle
@@ -165,25 +165,34 @@ fields:
         name: cta
         label: cta
         fields:
+        - type: boolean
+          name: enable
+          label: enable
+        - type: text
+          name: title
+          label: title
+        - type: textarea
+          name: subtitle
+          label: subtitle
         - type: file
           name: bg
           label: bg
         - type: text
           name: btnText
           label: btnText
-        - type: boolean
-          name: enable
-          label: enable
-        - type: textarea
-          name: subtitle
-          label: subtitle
-        - type: text
-          name: title
-          label: title
       - type: field_group
         name: hero
         label: hero
         fields:
+        - type: boolean
+          name: enable
+          label: enable
+        - type: text
+          name: heading
+          label: heading
+        - type: textarea
+          name: description
+          label: description
         - type: text
           name: btnText
           label: btnText
@@ -193,15 +202,6 @@ fields:
         - type: boolean
           name: button
           label: button
-        - type: textarea
-          name: description
-          label: description
-        - type: boolean
-          name: enable
-          label: enable
-        - type: text
-          name: heading
-          label: heading
         - type: file
           name: videoThumb
           label: videoThumb
