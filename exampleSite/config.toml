@@ -74,7 +74,7 @@ languageCode = "fr-fr"
 logo = "images/logo.png"
 menufixed = false
 title = "FRANCAIS Example site multi-language"
-weight = 1
+weight = "1"
 [Languages.fr.params.aboutSm]
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 enable = true
