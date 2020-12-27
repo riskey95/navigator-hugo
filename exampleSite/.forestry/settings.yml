@@ -7,13 +7,15 @@ sections:
 - type: heading
   label: Config
 - type: document
+  path: exampleSite/config.toml
+  label: Config
+  match: "**/*"
+- type: document
   path: exampleSite/data/id/team.yml
   label: Team
-  match: "**/*"
 - type: document
   path: exampleSite/data/id/testimonial.yml
   label: Testimonial
-  match: "**/*"
 - type: document
   path: exampleSite/data/id/pricing.yml
   label: Pricing
@@ -25,11 +27,6 @@ sections:
   label: Portfolio
 - type: heading
   label: Content
-- type: directory
-  path: exampleSite
-  label: Config
-  create: documents
-  match: "*"
 - type: directory
   path: exampleSite/data
   label: Data
