@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: exampleSite
   label: Config
-  create: all
+  create: documents
   match: "*"
 - type: directory
   path: exampleSite/data/en
