@@ -32,7 +32,3 @@ item:
 - title: Illustration
   image: images/portfolio/portfolio-6.jpg
   category: development
-menu:
-  nav:
-    name: portfolio
-    weight: 3

@@ -38,7 +38,3 @@ tabItem:
 
 '
   image: images/company/company-image-3.jpg
-menu:
-  nav:
-    name: about
-    weight: 1
