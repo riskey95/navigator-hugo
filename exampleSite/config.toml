@@ -50,16 +50,16 @@ weight = 1
 [params]
 dateFormat = "January 2, 2019"
 logo = "images/logo.png"
-[params.aboutSm]
+[params.id.aboutSm]
 description = "Jangan pertaruhkan project yang Anda handle tanpa menggunakan jasa perencana struktur bangunan. Mungkin saat ini Anda berpikir, menggunakan konsultan hitung struktur bangunan itu terlalu mahal dan akan buang-buang uang saja, tapi coba sejenak Anda bayangkan jika suatu saat bangunan Anda yang sudah menelan dana ratusan juta mengalami kerusakan akibat salah perencanaan. Berapa biaya yang harus Anda keluarkan untuk melakukan renovasi, jika terjadi gempa bumi, misalnya? Pastinya akan lebih banyak !"
 enable = true
 title = "Konsultan Perencana Struktur Profesional Dan Bersertifikat"
-[params.blog]
+[params.id.blog]
 enable = false
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
 title = "Blog."
 topTitle = "OUR UNTOLD STORY"
-[params.contact]
+[params.id.contact]
 address = "Lowokwaru, Malang, Jawa Timur"
 enable = true
 facebook = "https://www.facebook.com/rumah.engineer"
@@ -71,13 +71,13 @@ topTitle = "DROP US A NOTE"
 [params.cookies]
 enable = true
 expire_days = 2
-[params.cta]
+[params.id.cta]
 bg = "images/call-to-action/call-to-action-bg-2.jpg"
 btnText = "Contact Us"
 enable = true
 subtitle = "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
 title = "Let's Create Something Together"
-[params.hero]
+[params.id.hero]
 btnText = "Know More"
 btnURL = "https://themefisher.com/"
 button = false
