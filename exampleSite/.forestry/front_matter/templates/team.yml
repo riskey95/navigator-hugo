@@ -18,12 +18,12 @@ fields:
   name: member
   label: member
   fields:
-  - type: file
-    name: image
-    label: image
   - type: text
     name: name
     label: name
+  - type: file
+    name: image
+    label: image
   - type: text
     name: designation
     label: designation
