@@ -16,7 +16,7 @@ filtermenu:
 item:
 - title: AirBnB Postcard
   image: images/portfolio/portfolio-1.jpg
-  category: photography
+  category: photography, design
 - title: D Design
   image: images/portfolio/portfolio-2.jpg
   category: ios, design
