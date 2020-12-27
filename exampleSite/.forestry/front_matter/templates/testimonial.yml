@@ -9,15 +9,15 @@ fields:
   name: item
   label: item
   fields:
+  - type: text
+    name: clientName
+    label: clientName
   - type: textarea
     name: quote
     label: quote
   - type: file
     name: clientThumb
     label: clientThumb
-  - type: text
-    name: clientName
-    label: clientName
   - type: text
     name: clientDesignation
     label: clientDesignation
