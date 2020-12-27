@@ -40,3 +40,5 @@ fields:
   - type: text
     name: btnURL
     label: btnURL
+pages:
+- exampleSite/data/en/pricing.yml
