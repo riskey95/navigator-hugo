@@ -1,0 +1,23 @@
+---
+label: Testimonial
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: field_group_list
+  name: item
+  label: item
+  fields:
+  - type: textarea
+    name: quote
+    label: quote
+  - type: file
+    name: clientThumb
+    label: clientThumb
+  - type: text
+    name: clientName
+    label: clientName
+  - type: text
+    name: clientDesignation
+    label: clientDesignation
