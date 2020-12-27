@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: exampleSite/data/id/portfolio.yml
+  label: Portfolio
+  match: "**/*"
 - type: directory
   path: exampleSite
   label: Config
@@ -19,21 +23,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: exampleSite/content/service
-  label: Service
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/portfolio
-  label: Portfolio
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/contact
-  label: Contact
-  create: all
-  match: "**/*"
 - type: directory
   path: exampleSite/content/blog
   label: Blog
